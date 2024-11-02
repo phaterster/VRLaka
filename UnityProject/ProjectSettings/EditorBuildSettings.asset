@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: f941782e1a72fa440a6f24080208d5e2
+  - enabled: 1
+    path: Assets/Scenes/Owady scena.unity
+    guid: 03c48c5e809944fa4afcae9973709f26
+  - enabled: 1
+    path: Assets/Scenes/Rosliny scena.unity
+    guid: e036f3482214c3e4da28480e41033ea5
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 56cfe07e78299c6489c01d3436c52d1a, type: 2}
